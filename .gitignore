@@ -1,0 +1,4 @@
+node_modules
+src/unitTestSuie.js
+package-lock.json
+env
